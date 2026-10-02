@@ -1,0 +1,1 @@
+Based on the [Foundation: Introduction to LangChain - Python](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python) course in the [LangChain Academy](https://academy.langchain.com/).
